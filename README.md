@@ -21,13 +21,33 @@ I am passionate about implementing innovative ideas through software to solve pr
 
 ---
 
+🚀 **Projects:**  
+- [Project 1 Name](#) - Short description of your project or link to repo  
+- [Project 2 Name](#) - Short description or repo link  
+*(Add more relevant projects or links)*
+
+---
+
 🤝 **Looking to Collaborate On:**  
 Projects that solve real-world problems!
 
 ---
 
 📫 **Reach Me:**  
-- Tel: +233 206 837 999
+- Tel: +233 206 837 999  
+- Email: [your.email@example.com](mailto:your.email@example.com)  
+- [LinkedIn](https://linkedin.com/in/your-profile)  
+- [Twitter](https://twitter.com/yourprofile)  
+*(Add/remove according to your preference)*
+
+---
+
+📊 **GitHub Stats:**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=McAnnison&show_icons=true&hide_title=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=McAnnison" alt="GitHub Streak" />
+</p>
 
 ---
 
