@@ -46,11 +46,11 @@
 ---
 
 ## 📊 GitHub Stats  
-![Mensah's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)  
+![Mensah's GitHub stats](https://github-readme-stats.vercel.app/api?username=(https://github.com/McAnnison)&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=(https://github.com/McAnnison)&layout=compact&theme=radical)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=(https://github.com/McAnnison)&theme=radical)  
 
 ---
 
