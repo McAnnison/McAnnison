@@ -39,7 +39,7 @@
 🔹 [SDK Alkaline](https://sdk-alkaline-mgsyt.vercel.app/login) – A management sysrem for a water company. (React + Mongo + Node.js)  
 🔹 [Steller Learning Platform](https://stellr-learning-platform.vercel.app/) – An Online Learning Platform mainly for Africans  (React + Prisma + Nest.js)  
 🔹 [Big Dot](https://mcannison.github.io/revolve-web/) – A front-end task I worked on duting my internship at Revolve Digicom (HTML + CSS + Javascript)  
-🔹 [Environmental Reporting App](#) – Report waste with photo + location (React Native)  
+ 
 
 ---
 
